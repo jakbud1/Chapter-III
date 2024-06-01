@@ -1,0 +1,2 @@
+If you want to rerun the Dada2 pipeline, you need to download raw seq data from the SRA linked in the publication and paste them into the "Input" directory. 
+Moreover, a proper reference database needs to be included in the directory. 
